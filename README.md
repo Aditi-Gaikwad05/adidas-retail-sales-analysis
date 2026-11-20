@@ -40,6 +40,5 @@ Using DAX for business calculations.
 Developing data visualization skills.
 Analyzing business performance through KPIs.
 
-👩‍💻 Project Category
-
-Data Analytics | Business Intelligence | Power BI
+Screenshot:-
+show what the dashboard look like:-https://github.com/Aditi-Gaikwad05/adidas-retail-sales-analysis/blob/main/adidas%20sales%20analysis.png
